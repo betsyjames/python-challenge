@@ -32,7 +32,7 @@ In this challenge, I was tasked with creating a Python script for analyzing the 
     * The greatest increase in profits (date and amount) over the entire period
     * The greatest decrease in losses (date and amount) over the entire period
 
-* The analysis should look similar to the one below:
+* The analysis looks like below:
 
   ```text
   Financial Analysis
@@ -68,7 +68,7 @@ In this challenge, you are tasked with helping a small, rural town modernize its
 
 * The winner of the election based on popular vote.
 
-* As an example, your analysis should look similar to the one below:
+* The analysis looks like below:
 
   ```text
   Election Results
